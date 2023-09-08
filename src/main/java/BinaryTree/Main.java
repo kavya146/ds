@@ -11,7 +11,7 @@ public class Main {
 
         q.delete(91);
         boolean res=q.search(91);
-        System.out.println(res);
+        System.out.println(res + " Result");
         q.inOrder();
 
 
